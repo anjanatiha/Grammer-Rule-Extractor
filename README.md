@@ -1,4 +1,5 @@
 Mar. 15, 2018.
+
 1. Extracted from the BROWN file all grammar rules embedded in parse trees. (Did not consider punctuation as a nonterminal and eliminated numbers attached to non-terminals such as '-1', '-2', etc.)
 2. Reported the following:
 	1. number of distinct rules found.
@@ -7,5 +8,7 @@ Mar. 15, 2018.
 3. Estimated the above grammar size if lexicalized(i.e. to add head words to some of the rules).
 
 Tools Requirement: Anaconda, Python 
+
 Current Version  : v1.0.0.13
+
 Last Update      : 03.16.2018 (Time : 04:20 P.M)
